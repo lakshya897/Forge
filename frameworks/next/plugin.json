@@ -1,0 +1,7 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "priority": 90,
+  "entry": "plugin.py",
+  "markers": ["next.config.js", "next.config.mjs", "next.config.ts"]
+}

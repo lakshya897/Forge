@@ -1,0 +1,7 @@
+{
+  "name": "spring",
+  "version": "1.0.0",
+  "priority": 75,
+  "entry": "plugin.py",
+  "markers": ["pom.xml", "build.gradle"]
+}

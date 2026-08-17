@@ -1,0 +1,7 @@
+{
+  "name": "fastapi",
+  "version": "1.0.0",
+  "priority": 85,
+  "entry": "plugin.py",
+  "markers": ["main.py", "app.py", "requirements.txt"]
+}

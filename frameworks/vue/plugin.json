@@ -1,0 +1,7 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "priority": 80,
+  "entry": "plugin.py",
+  "markers": ["package.json", "src/App.vue", "vite.config.ts", "vue.config.js"]
+}

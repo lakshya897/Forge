@@ -1,0 +1,7 @@
+{
+  "name": "django",
+  "version": "1.0.0",
+  "priority": 85,
+  "entry": "plugin.py",
+  "markers": ["manage.py"]
+}
